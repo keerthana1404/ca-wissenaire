@@ -1,0 +1,455 @@
+* {
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'segoe ui';
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.navbar {
+    width: 100%;
+    padding-left: 20px;
+    height: 50px;
+    display: flex;
+    position: sticky;
+    align-items: center;
+    justify-content: space-around;
+    background: none;
+}
+
+.navimg {
+    background: none;
+}
+
+.checkbox {
+    background: none;
+    margin: -3px;
+}
+
+.nav-title {
+    background: none;
+    width: 100%;
+}
+
+.nav-title a {
+    background: none;
+}
+
+.nav-title img {
+    background: none;
+    height: 50%;
+    width: 50%;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+
+.hamburgerMenu {
+    display: none;
+    background: none;
+    margin-top: -3px;
+}
+
+.links {
+    font-size: 22px;
+    background: none;
+    text-align: center;
+}
+
+.links a {
+    color: #fff;
+    text-decoration: none;
+    padding: 13px 10px 13px 10px;
+    background: none;
+
+}
+
+.links a:hover {
+    background-color: #636262;
+    border-radius: 5px;
+}
+
+#login {
+    border: 5px solid white;
+    font-size: 22px;
+    border-radius: 10px;
+    border-width: 2px;
+
+}
+
+.Signup {
+    border: 5px solid white;
+    font-size: 22px;
+    border-radius: 10px;
+    border-width: 2px;
+
+}
+
+#hamburger {
+    display: none;
+    background: none;
+}
+
+.text {
+    position: relative;
+}
+
+.cap {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 100px;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.3s;
+    z-index: -2;
+    text-align: center;
+    align-items: center;
+    background: none;
+    margin-top: 3%;
+
+}
+
+.cap:hover {
+    -webkit-text-stroke: 2px #fff;
+    color: transparent;
+}
+
+.cap p {
+    text-align: center;
+    background: none;
+    position: relative;
+    margin: -1%;
+}
+
+.about {
+    background: none;
+    margin: 25px;
+    width: 70%;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    margin-left: 15%;
+    border: solid white;
+    border-radius: 10px;
+}
+
+.heading {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    background: none;
+}
+
+.para {
+    margin: 3%;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    background: none;
+}
+
+.para p {
+    background: none;
+}
+
+.carousel-caption {
+    background: none;
+    color: #fff;
+}
+
+.page {
+    height: 1100%;
+    width: 100%;
+    background: none;
+
+}
+
+.img2 {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background: none;
+}
+
+.text1 h1 {
+    position: absolute;
+    background: none;
+}
+
+.text1 {
+    background: none;
+    color: #fff;
+}
+
+.container3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: none;
+    color: black;
+    padding: 40px;
+    align-items: center;
+    float: center;
+}
+
+.head {
+    font-size: 55px;
+    justify-content: center;
+    text-align: center;
+    margin-top: -10px;
+    font-family: 'Roboto Slab', serif;
+    background: none;
+    color: #fff;
+}
+
+
+.card {
+    gap: 10px;
+    background: none;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    background: none;
+}
+
+.camp1 {
+    background: none;
+}
+
+.line {
+    background-color: #fff;
+    height: 5px;
+
+}
+
+.contact {
+    text-align: center;
+    padding: 50px;
+    color: rgb(255, 248, 248);
+    background-color: rgb(24, 24, 24);
+    border-top: solid white;
+}
+
+.number {
+    background: none;
+}
+
+.contact12 {
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+    background: none;
+}
+
+#contact1 {
+    display: flex;
+    background: none;
+}
+
+#contact2 {
+    display: flex;
+    background: none;
+}
+
+.contactLogos {
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    background: none;
+
+}
+
+.contactInfo {
+    justify-content: center;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    background: none;
+}
+
+.contactInfo1 {
+    background: none;
+}
+
+.End {
+    padding: 60px;
+    gap: 90px;
+    display: flex;
+    justify-content: center;
+    background: none;
+}
+
+.ContactHead {
+    font-family: 'Belanosima', sans-serif;
+    font-size: 60px;
+    background: none;
+}
+
+.logoi {
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+
+.logoi a {
+    background-color: #fff;
+}
+
+.follow {
+    background: none;
+}
+
+.card-img2-top {
+    background: none;
+}
+
+.card-text1 {
+    background: none;
+}
+
+.card-text {
+    background: none;
+    text-align: center;
+}
+
+.card-body {
+    background: none;
+}
+
+@media screen and (max-width: 900px) {
+    .head {
+        font-size: 32px;
+    }
+}
+
+.text1 {
+    margin: 0px auto 20px;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+#incentives .card {
+    padding: 10px;
+
+}
+
+#incentives .card-body {
+    background-color: bisque;
+    text-align: center;
+    font-weight: 500;
+}
+
+.camp {
+    display: none;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    margin: auto 0;
+    height: min-content;
+    background-image: radial-gradient(rgba(0, 0, 0, 0.85) 5%, rgba(0, 0, 0, 1));
+    height: 100%;
+    border-radius: 5px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+
+}
+
+
+.card:hover .camp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width:600px) {
+    .navbar {
+        justify-content: space-between;
+        background-color: #020202;
+    }
+
+    .hamburgerMenu {
+        display: block;
+        margin-right: 20px;
+        background: none;
+    }
+
+    .hum {
+        background: none;
+    }
+
+    .hamburgerMenu label {
+        display: inline-block;
+        cursor: pointer;
+        padding: 13px;
+        height: 50px;
+        width: 50px;
+    }
+
+    .hamburgerMenu label:hover,
+    .navbar #hamburger:checked~.hamburgerMenu>label {
+        background-color: #2d2d2c;
+        background: none;
+    }
+
+    .hamburgerMenu label div {
+        border-top: 2px solid #fff;
+        display: block;
+        height: 10px;
+        width: 25px;
+    }
+
+    .links {
+
+        background-color: #ffffff;
+        transition: all 0.3s;
+        overflow-y: hidden;
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 0px;
+        top: 50px;
+        left: 0px;
+        color: #020202;
+    }
+
+    .links a {
+        display: block;
+        width: 100%;
+        cursor: pointer;
+        backface-visibility: hidden;
+    }
+
+    #hamburger:not(:checked)~.links {
+        height: 0px;
+    }
+
+    #hamburger:checked~.links {
+        height: 110vh;
+    }
+
+    .cap {
+        font-size: 50px;
+        margin-top: 10%;
+        transition: none;
+    }
+    .cap:hover{
+        transition: none;
+    }
+}
