@@ -59,7 +59,7 @@
 }
 
 .links a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 13px 10px 13px 10px;
     background: none;
@@ -434,6 +434,12 @@
         width: 100%;
         cursor: pointer;
         backface-visibility: hidden;
+    color: #fff;
+    text-decoration: none;
+    padding: 13px 10px 13px 10px;
+    background: black;
+
+
     }
 
     #hamburger:not(:checked)~.links {
