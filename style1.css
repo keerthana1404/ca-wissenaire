@@ -71,21 +71,6 @@
     border-radius: 5px;
 }
 
-#login {
-    border: 5px solid white;
-    font-size: 22px;
-    border-radius: 10px;
-    border-width: 2px;
-
-}
-
-.Signup {
-    border: 5px solid white;
-    font-size: 22px;
-    border-radius: 10px;
-    border-width: 2px;
-
-}
 
 #hamburger {
     display: none;
