@@ -106,7 +106,10 @@
     position: relative;
     margin: -1%;
 }
-
+#login{
+    color: white;
+    
+}
 .about {
     background: none;
     margin: 25px;
