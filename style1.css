@@ -109,10 +109,12 @@
 #login{
     color: white;  
     border-color: white;
+    border-width: 3px;
 }
 #signUp{
     color: white;
     border-color: white;
+    border-width: 3px;
 }
 .about {
     background: none;
