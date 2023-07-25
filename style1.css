@@ -107,8 +107,12 @@
     margin: -1%;
 }
 #login{
+    color: white;  
+    border-color: white;
+}
+#signUp{
     color: white;
-    
+    border-color: white;
 }
 .about {
     background: none;
